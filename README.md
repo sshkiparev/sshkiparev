@@ -1,6 +1,6 @@
 ### ПРИВЕТ!!! Я САВЕЛИЙ!! :heart:
 
-![ya](https://avatars.mds.yandex.net/i?id=9d9bef16152b7ee70ca0be5c4677543e418f21d7-4590689-images-thumbs&n=13)
+![ya](https://i.gifer.com/origin/18/183e08cdc3ae87ee9c14fa74ef83a5b9.gif)
 _____
 
 [ссылка на страницу в вк](https://vk.com/s.shkiparev) :innocent:
