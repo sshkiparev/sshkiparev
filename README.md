@@ -1,6 +1,6 @@
 ### ПРИВЕТ!!! Я САВЕЛИЙ!! :heart:
 
-![ya]([https://sun9-67.userapi.com/impg/faD_aZ9D9o1woXBSX1lwIK_jmdMGgFWUdASeXg/i99pnLibAaE.jpg?size=960x1280&quality=95&sign=d72dc8ba10253460233d64627ce7485b&type=album](https://avatars.mds.yandex.net/i?id=9d9bef16152b7ee70ca0be5c4677543e418f21d7-4590689-images-thumbs&n=13))
+![ya](https://avatars.mds.yandex.net/i?id=9d9bef16152b7ee70ca0be5c4677543e418f21d7-4590689-images-thumbs&n=13)
 _____
 
 [ссылка на страницу в вк](https://vk.com/s.shkiparev) :innocent:
@@ -41,3 +41,5 @@ print (x, y)
 
 _______
 
+
+![ya](https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966)
