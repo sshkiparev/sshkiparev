@@ -1,4 +1,6 @@
 ### ПРИВЕТ!!! Я САВЕЛИЙ!! :heart:
+
+![ya](https://sun9-67.userapi.com/impg/faD_aZ9D9o1woXBSX1lwIK_jmdMGgFWUdASeXg/i99pnLibAaE.jpg?size=960x1280&quality=95&sign=d72dc8ba10253460233d64627ce7485b&type=album)
 _____
 
 [ссылка на страницу в вк](https://vk.com/s.shkiparev) :innocent:
@@ -13,7 +15,7 @@ _____
 Родной город: Череповец :heart_eyes:
 
 _____
-### Какие языки програмирования я знаю:
+>### Какие языки програмирования я знаю:
 
 + Pyton :white_check_mark:
   + *Переменные в Python*
